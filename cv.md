@@ -17,3 +17,10 @@
 Hello everyone who reads, my name is Evgeny , 22 years old. At the moment, the graduate is a master's student of the GrSU University.Yankee Kupala. Hobbies: programming, photography, poetry, weightlifting.
 
 ---
+### Skills and Proficiency:
+
+- HTML, CSS
+- Apex, JS Basics
+- Git, Github,Bitbuket
+- VS Code, InteliJ IDEA
+- Adobe Photoshop, Express , Sony Vegas
