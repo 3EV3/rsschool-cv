@@ -69,6 +69,16 @@ body{
     width:20%;
     height:30%;
 }
+main{
+    margin: auto;
+    position:relative;
+    width: 100%;
+    height: auto;
+    z-index: 1000;
+    background-color: #aaaaaa;
+    opacity: 0.6;
+    text-align: center;
+}
 footer{
     margin: auto;
     position:relative;
