@@ -2,7 +2,7 @@
 ---
 # Eugene Voronko
 
-![Фото](./img/avatar.jpg)
+![Фото](img/avatar.jpg)
 **Phone:** +375336892753 \
 **E-mail:** evgeni.voronko.33@gmail.com 
 ### Социальные сети 
