@@ -6,13 +6,27 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
+
         <div class="background-video">
             <video id="video-elem" preload="auto" autoplay loop muted poster="img/Coverr-lamp.jpg">
                 <source src="video/Coverr-lamp.mp4" type="video/mp4">
                 <source src="video/Coverr-lamp.webm" type="video/webm">
             </video>
         </div>
-        <div class="contact-information">
+        <header id="start-page">
+            <div class="navbar container">
+                <div class="logo"><a href="#start-page">Eugene Voronko</a></div>
+                <input type="checkbox" id="navbar-toggle" >
+                <label for="navbar-toggle"><i></i></label>
+                <nav class="menu">
+                    <ul>
+                        <li><a href="#start-page"> Home</a></li>
+                        <li><a href="#main-section"> Code</a></li>
+                        <li><a href="#footer-part"> The end ;)</a></li>
+                    </ul>
+                </nav>
+            </div>
+        <div class="contact-information" id="c">
             <h1>Eugene Voronko</h1>
             <p class="center-photo" >
                 <img src="img/avatar.jpg" alt="avatar">
@@ -32,7 +46,8 @@
             <h2>About me</h2>
                 <p>
                     Hello everyone who reads, my name is Evgeny , 22 years old. <br>
-                    At the moment, the graduate is a master's student of the GrSU University.Yankee Kupala. <br>Hobbies: programming, photography, poetry, weightlifting.
+                    At the moment, the graduate is a master's student of the GrSU University.Yankee Kupala. <br>Hobbies: programming, photography, poetry, weightlifting.<br>
+                    English: B1 (PI)
                 </p>
             <br>
             <hr>
@@ -49,11 +64,16 @@
             <hr>
             <br>
         </div>
-        <div class="footer">
+        </header>
+        <main id="main-section">
+
+        </main>
+        <footer id="footer-part">
             <p>RSSCHOOL 2022</p>
+            <p>Project by <a href="https://github.com/3EV3"> Eugene Voronko</a></p>
             <p>
-            <a href="https://rs.school/js/"><img src="img/rs_school_js.svg" alt="logo school"></a>
+            <a href="https://rs.school/js-stage0/"><img src="img/rs_school_js.svg" alt="logo school"></a>
             </p>
-        </div>
+        </footer>
 </body>
 </html>
