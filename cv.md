@@ -2,7 +2,7 @@
 ---
 # Eugene Voronko
 
-![Фото](../img/77J_AZNPWUm8.jpg)
+![Фото](https://sun9-71.userapi.com/impg/VcJV5tqRrAIxFrbaRRs3wQhfjXUw_D6UMesyBA/7J_AZNPWUm8.jpg?size=1440x2160&quality=95&sign=83317088ed873f97bd8182e8cbe7703c&type=album
 ### Contact information:
 **Phone:** +375336892753 \
 **E-mail:** evgeni.voronko.33@gmail.com 
