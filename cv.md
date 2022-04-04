@@ -16,6 +16,23 @@
 
 Hello everyone who reads, my name is Evgeny , 22 years old. At the moment, the graduate is a master's student of the GrSU University.Yankee Kupala. Hobbies: programming, photography, poetry, weightlifting.
 
+
+
+ ---
+### Work experience
+Alas, I'm just studying at the moment there are no special projects
+
+ ---
+### English
+Level B1 - Pre Intermediate
+
+ ---
+### Courses
+Links:
+1)(https://htmlacademy.ru/)
+2)(https://www.sololearn.com/home)
+3)(https://trailhead.salesforce.com/en)
+
 ---
 ### Skills and Proficiency:
 
