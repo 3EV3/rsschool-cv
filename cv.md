@@ -1,7 +1,7 @@
 # CV for RSSchool
 
 ## Eugene Voronko - Beginner Webmaster
-
+![Profile image](https://stihi.ru/photos/3redstar3.jpg?8169)
 
 
 # Contacts
